@@ -1,6 +1,5 @@
 # NFT Market
 
-![NFT Market](https://github.com/Mhezron/NFT-Market/blob/main/nft-market.png)
 
 This repository contains an NFT Market application, which is a decentralized marketplace for buying and selling non-fungible tokens (NFTs). The NFT Market is built using [React](https://reactjs.org/) and [Solidity](https://docs.soliditylang.org/) smart contracts on the Ethereum blockchain.
 
